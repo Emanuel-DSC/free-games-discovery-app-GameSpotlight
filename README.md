@@ -1,4 +1,8 @@
+<div>
+  <img align="center" src="https://github.com/user-attachments/assets/e8f3135c-b9f7-42d7-8fd6-9bbeface5e09" alt="Cover" width="auto%" height="auto"/>
 
+</div>
+<br>
 
 # 🎮 GameSpotlight
 
